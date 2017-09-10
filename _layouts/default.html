@@ -25,11 +25,10 @@
         {% if site.github.is_user_page %}
           <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
-        
+        <p>{% include navigation.html %}</p>        
       </header>
       <section>
       
-      <p>{% include navigation.html %}</p>
       {{ content }}
 
       </section>
