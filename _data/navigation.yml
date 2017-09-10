@@ -1,0 +1,12 @@
+# Belongs at: /_data/navigation.yml
+
+- title: Home
+  url: /
+
+- title: Resources
+  url: /resources/
+  sublinks:
+    - title: Scratch
+      url: /resources/scratch
+    - title: micro:bit
+      url: /resources/microbit
