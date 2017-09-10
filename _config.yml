@@ -1,5 +1,6 @@
 title: Coderdojo Banbridge
 description: Community for CoderDojo Banbridge. Contains useful information about the dojo and links to resources used in our sessions.
+navbar: true
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
