@@ -1,0 +1,7 @@
+### Resources
+
+The dojo aims to provide as wide a base as possible for the ninjas to learn on. This section will list some of the main activites that we currently provide in the dojo.
+
+| Resource              	| Description                                                               	|
+|-----------------------	|---------------------------------------------------------------------------	|
+| [Scratch](scratch.md) 	|  Learn how to program your own interactive stories, games and animations. 	|
