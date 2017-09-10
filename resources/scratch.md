@@ -8,7 +8,7 @@ Follow this [link](https://scratch.mit.edu/parents/) if you are a parent and wou
 
 ### Scratch in CoderDojo Banbridge
 
-In CoderDojo Banbridge, we make use of [cs-first](https://cs-first.com), which has been developed by **Google**, to help ninjas guide their learning with the **Scratch** programming language. 
+In CoderDojo Banbridge, we make use of [cs-first](https://cs-first.com), which has been developed by **Google**, to help ninjas guide their learning with the **Scratch** programming language. Ninjas can tackle one or more clubs, each based around a specific theme. Each club comprises of eight activites and ninjas earn a certificate on completion of all exercises.
 
 | Club          | Difficulty       | Description                                                                                                                                                                                                                   |
 |---------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -27,3 +27,11 @@ CoderDojo Banbridge will award the following badges based on completing coureses
 | Scratch [Beginner]     	| Completed one or more of Story Telling, Music & Sound or Art 	|
 | Scratch [Intermediate] 	| Completed Game Design                                        	|
 | Scratch [Advanced]     	| Completed Animation                                          	|
+
+### Further Resources
+
+| Resource                                                                 	| Description                                                                     	|
+|--------------------------------------------------------------------------	|---------------------------------------------------------------------------------	|
+| [Scratch Kata](http://kata.coderdojo.com/wiki/Scratch_Path)              	| CoderDojo Sushi path for Scratch: Learn to make animations and games in Scratch 	|
+| [CodeClub Scratch Projects](https://codeclubprojects.org/en-GB/scratch/) 	| Learn how to program your own interactive stories, games and animations.        	|
+| [Explore Scratch](https://scratch.mit.edu/explore/projects/all)          	| A curated list of projects from Scratch.                                        	|
