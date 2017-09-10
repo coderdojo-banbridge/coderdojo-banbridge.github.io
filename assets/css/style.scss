@@ -5,3 +5,23 @@
 nav ul {
     text-align: -webkit-auto;
 }
+
+header {
+    padding: 25px 20px 40px 20px;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    background-color: slategray;
+    box-shadow: 1px 0px 2px rgba(0,0,0,0.75);
+    z-index: 99;
+    -webkit-font-smoothing: antialiased;
+    min-height: 76px;
+}
+
+header p a {
+    color: gold;
+}
