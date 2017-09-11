@@ -8,6 +8,10 @@ It can be coded from any web browser in Blocks, Javascript, Python, Scratch and 
 
 CoderDojo Banbridge were lucky enough to receive 10 micro:bit computers from the micro:bit educational foundation via the CoderDojo England and Wales team.
 
+### CoderDojo Badges
+
+The CoderDojo foundation currently do not  award specific badges for the micro:bit, but it can certainly be used as a tool to gain badges in [python](python.md)
+
 ### Learning Resources
 
 | Resource                                                                                             	| Details                                                    	|
