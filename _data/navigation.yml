@@ -5,12 +5,6 @@
 
 - title: Resources
   url: /resources/
-  sublinks:
-    - title: Scratch
-      url: /resources/scratch
-    - title: micro:bit
-      url: /resources/microbit
-    - title: Python
-      url: /resources/python
-    - title: HTML & CSS
-      url: /resources/html_css
+
+- title: Contact Us
+  url: /contact
