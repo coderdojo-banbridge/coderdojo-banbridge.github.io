@@ -8,7 +8,7 @@ Python is a text based programming language, which means, unlike Scratch, it's m
 
 ### CoderDojo Badges
 
-In CoderDojo Banbridge there is no specific course to follow that leads directly to specific badges, but there are [two badges](https://zen.coderdojo.com/badges) offered by the dojo that will be judged based on ninjas work:
+CoderDojo provide [Sushi cards](http://kata.coderdojo.com/wiki/Python_Path), worksheets that guide learning, that lead to [two badges](https://zen.coderdojo.com/badges) offered by the dojo that will be judged based on ninjas work:
 
 | Badge                  	| Criteria                                                     	    |
 |------------------------	|-------------------------------------------------------------------|
