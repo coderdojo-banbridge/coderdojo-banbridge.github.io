@@ -4,6 +4,8 @@ navbar: true
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
+twitter_username: coderdojobanb
+facebook_username: CoderDojoBanbridge
 
 gems:
   - jekyll-mentions
