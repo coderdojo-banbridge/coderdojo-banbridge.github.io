@@ -8,3 +8,4 @@ The dojo aims to provide as wide a base as possible for the ninjas to learn on. 
 | [micro:bit](microbit.md) 	|  micro:bit is a tiny programmable computer, designed to make learning and teaching easy and fun! 	|
 | [Python](python.md)       | Learn how to program with one of the most popular text based languages.     |
 | [HTML & CSS](html_css.md) | Learn how to build and style your very own websites.                        |
+| [Mission Space Lab](mission_space_lab.md) | Details on the two projects being working on for the Astro Pi challenge. |
