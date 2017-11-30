@@ -12,3 +12,8 @@
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | [Learn Python](python.md)                                                                  | Learn Python                                                                                           |
 | [Photos from ISS](https://github.com/astro-pi/enviro-pi/tree/master/iss%20downloads)       | Examples of images taken from ISS on last set of space missions                                        |
+| [Two-line element set](https://en.wikipedia.org/wiki/Two-line_element_set)                 | Article explaining two-line telemetry. |
+| [PyEphem Home Page](http://rhodesmill.org/pyephem/index.html)                              | Python library that works with two-line telemtry. |
+| [NORAD Two-Line Telemtry](http://celestrak.com/NORAD/elements/stations.txt)                | NORAD's up to date two-line telemtry data. |
+| [Raspbian Stretch: Install OpenCV 3 + Python on your Raspberry Pi](https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/) | Great guide on how to install OpenCV on Raspberry PI (**Can take over an hour to complete!**)
+| [Accessing the Raspberry Pi Camera with OpenCV and Python](https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/) | Great guide on how to capture images using OpenCV on the Raspberry PI. |
