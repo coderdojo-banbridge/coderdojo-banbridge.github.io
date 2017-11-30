@@ -1,5 +1,15 @@
 ### Mission Space Lab
 
+#### About
+
+In October 2017, two teams of Ninja's submitted projects ideas for the ESA [Astrp PI - Mission Space Lab](https://astro-pi.org/missions/space-lab/) competiton for young people no older than 19. They submitted ideas for an experiment, and both were accepted which means that our Dojo received free computer hardware that mirrors that in Space. Now the hard part, they must write the Python code to carry out those ideas!
+
+If successful, their code could be uploaded to the International Space Station and run for three hours (two orbits).
+
+Out of the two themes (Life on Earth or Life in Space) both teams submitted ideas for **Life in Space** which makes use of Astro Pi IR (Izzy), which will be aimed towards the Earth through a window. They can use all of its sensors as well as its infrared camera.
+
+#### Project Details
+
 | Project Teams | *Team Terra Marique* | *Lux Quest* |
 | --- | --- | --- |
 | Idea          | Land and Sea Detector to build up a model of visible area from the ISS | Light pollution Detector to determine areas of high light pollution |
