@@ -16,7 +16,13 @@ Out of the two themes (Life on Earth or Life in Space) both teams submitted idea
 | How does it use the Astro Pi to perform the experiment? | It will use the Pi NoIR camera to capture images of the Earth and post-process to detect variations in light intensity to determine land or sea and then possibly model the results in MineCraft on the Pi or else on the Sense Hat LED display. | It will use the Pi NoIR camera to capture images when ISS is over land in darkness. It will post process the images and determine biggest offenders of light pollution. The results may be displayed in a minecraft model and also displayed on the Sense Hat LED display. |
 | Phase 1 feedback | Nice idea, remember that you'll get 3 hours of run time for your code which is 2 orbits. So not enough to get full global coverage for your Minecraft map. | Look into using two-line element telemetry to calculate ISS location. The Python ephem module is perfect for this. You can also work out if you're on the light or dark side of the Earth. |
 
-### Further Resources
+#### Approach
+
+Some tips were shared during a [recent webinar](https://astro-pi.org/updates/mission-space-lab-training-webinar/) hosted by the astro pi team that should aid with tackling the projects:
+* For Life On Earth projects, images can be captured and stored to be processed by another program at a later point. This means that intensive processing of images can actually be tackled later which is important as the Pi on the space station is one of the older models and may not complete each image processing in a timely fashion.
+* Because of the point above, we can break the projects into seperate parts/programs that can be tackled by the seperate ninja's and pull it together at the end, e.g. one ninja can write the code to take photos and note location using ephem and store details in a csv (comma seperated value) file, while another could write the code that processes the image and gathers data and another the code to represent data in Minecraft.
+
+#### Further Resources
 
 | Resource                                                                                   | Details                                                                                                |
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
