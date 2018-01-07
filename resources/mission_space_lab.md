@@ -29,11 +29,12 @@ Some tips were shared during a [recent webinar](https://astro-pi.org/updates/mis
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | [Learn Python](python.md)                                                                  | Learn Python                                                                                           |
 | [Photos from ISS](https://github.com/astro-pi/enviro-pi/tree/master/iss%20downloads)       | Examples of images taken from ISS on last set of space missions                                        |
-| [Examples from Space Lab Webinar](https://github.com/coderdojo-banbridge/astro-pi-examples)| Code from the Space Lab webinar showing how to get ISS position and how to take images etc)              |
+| [Examples from Space Lab Webinar](https://github.com/coderdojo-banbridge/astro-pi-examples)| Code from the Space Lab webinar showing how to get ISS position and how to take images etc.              |
 | [Two-line element set](https://en.wikipedia.org/wiki/Two-line_element_set)                 | Article explaining two-line telemetry. |
 | [PyEphem Home Page](http://rhodesmill.org/pyephem/index.html)                              | Python library that works with two-line telemtry. |
 | [NORAD Two-Line Telemtry](http://celestrak.com/NORAD/elements/stations.txt)                | NORAD's up to date two-line telemtry data. |
 | [Getting Started with Minecraft Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi) | Guide for using Minecraft PI |
+| [Example of how to calculate brigthness of image](https://gist.github.com/KramKroc/ea2c4aebd1db6ebd676d2b7b970b2ff4) | Shows how to calculate brightness for entire image. |
 | [Astro PI projects](https://github.com/astro-pi) | Code from some previous and current Astro PI projects. |
 | [Raspbian Stretch: Install OpenCV 3 + Python on your Raspberry Pi](https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/) | Great guide on how to install OpenCV on Raspberry PI (**Can take over an hour to complete!**)
 | [Accessing the Raspberry Pi Camera with OpenCV and Python](https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/) | Great guide on how to capture images using OpenCV on the Raspberry PI. |
