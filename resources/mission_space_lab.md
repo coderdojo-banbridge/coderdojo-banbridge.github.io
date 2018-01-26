@@ -33,6 +33,7 @@ Some tips were shared during a [recent webinar](https://astro-pi.org/updates/mis
 | [Two-line element set](https://en.wikipedia.org/wiki/Two-line_element_set)                 | Article explaining two-line telemetry. |
 | [PyEphem Home Page](http://rhodesmill.org/pyephem/index.html)                              | Python library that works with two-line telemtry. |
 | [NORAD Two-Line Telemtry](http://celestrak.com/NORAD/elements/stations.txt)                | NORAD's up to date two-line telemtry data. |
+| [Writing/Reading data to/from CSV files](https://github.com/coderdojo-banbridge/educational/tree/master/PythonFilesAndDataframes) | Examples from Seamus on how to use a data grid, i.e. rows of location, photo, and lux levels and then store data to a cvs file. |
 | [Getting Started with Minecraft Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi) | Guide for using Minecraft PI |
 | [Example of how to calculate brigthness of image](https://gist.github.com/KramKroc/ea2c4aebd1db6ebd676d2b7b970b2ff4) | Shows how to calculate brightness for entire image. |
 | [Astro PI projects](https://github.com/astro-pi) | Code from some previous and current Astro PI projects. |
