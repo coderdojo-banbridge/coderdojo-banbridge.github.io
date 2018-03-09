@@ -16,14 +16,26 @@ Out of the two themes (Life on Earth or Life in Space) both teams submitted idea
 | How does it use the Astro Pi to perform the experiment? | It will use the Pi NoIR camera to capture images of the Earth and post-process to detect variations in light intensity to determine land or sea and then possibly model the results in MineCraft on the Pi or else on the Sense Hat LED display. | It will use the Pi NoIR camera to capture images when ISS is over land in darkness. It will post process the images and determine biggest offenders of light pollution. The results may be displayed in a minecraft model and also displayed on the Sense Hat LED display. |
 | Phase 1 feedback | Nice idea, remember that you'll get 3 hours of run time for your code which is 2 orbits. So not enough to get full global coverage for your Minecraft map. | Look into using two-line element telemetry to calculate ISS location. The Python ephem module is perfect for this. You can also work out if you're on the light or dark side of the Earth. |
 
-### Further Resources
+#### Approach
+
+Some tips were shared during a [recent webinar](https://astro-pi.org/updates/mission-space-lab-training-webinar/) hosted by the astro pi team that should aid with tackling the projects:
+* For Life On Earth projects, images can be captured and stored to be processed by another program at a later point. This means that intensive processing of images can actually be tackled later which is important as the Pi on the space station is one of the older models and may not complete each image processing in a timely fashion.
+* Because of the point above, we can break the projects into seperate parts/programs that can be tackled by the seperate ninja's and pull it together at the end, e.g. one ninja can write the code to take photos and note location using ephem and store details in a csv (comma seperated value) file, while another could write the code that processes the image and gathers data and another the code to represent data in Minecraft.
+* Code should be stored in GitHub so we can share it later with ESA and other developers who may want to look at our code. The mentors will help with this.
+
+#### Further Resources
 
 | Resource                                                                                   | Details                                                                                                |
 |--------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
 | [Learn Python](python.md)                                                                  | Learn Python                                                                                           |
 | [Photos from ISS](https://github.com/astro-pi/enviro-pi/tree/master/iss%20downloads)       | Examples of images taken from ISS on last set of space missions                                        |
+| [Examples from Space Lab Webinar](https://github.com/coderdojo-banbridge/astro-pi-examples)| Code from the Space Lab webinar showing how to get ISS position and how to take images etc.              |
 | [Two-line element set](https://en.wikipedia.org/wiki/Two-line_element_set)                 | Article explaining two-line telemetry. |
 | [PyEphem Home Page](http://rhodesmill.org/pyephem/index.html)                              | Python library that works with two-line telemtry. |
 | [NORAD Two-Line Telemtry](http://celestrak.com/NORAD/elements/stations.txt)                | NORAD's up to date two-line telemtry data. |
+| [Writing/Reading data to/from CSV files](https://github.com/coderdojo-banbridge/educational/tree/master/PythonFilesAndDataframes) | Examples from Seamus on how to use a data grid, i.e. rows of location, photo, and lux levels and then store data to a cvs file. |
+| [Getting Started with Minecraft Pi](https://projects.raspberrypi.org/en/projects/getting-started-with-minecraft-pi) | Guide for using Minecraft PI |
+| [Example of how to calculate brigthness of image](https://gist.github.com/KramKroc/ea2c4aebd1db6ebd676d2b7b970b2ff4) | Shows how to calculate brightness for entire image. |
+| [Astro PI projects](https://github.com/astro-pi) | Code from some previous and current Astro PI projects. |
 | [Raspbian Stretch: Install OpenCV 3 + Python on your Raspberry Pi](https://www.pyimagesearch.com/2017/09/04/raspbian-stretch-install-opencv-3-python-on-your-raspberry-pi/) | Great guide on how to install OpenCV on Raspberry PI (**Can take over an hour to complete!**)
 | [Accessing the Raspberry Pi Camera with OpenCV and Python](https://www.pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/) | Great guide on how to capture images using OpenCV on the Raspberry PI. |

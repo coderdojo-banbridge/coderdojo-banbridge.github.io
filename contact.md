@@ -1,5 +1,5 @@
 ### Support or Contact
-Have any questions or would like to find out more? Please [contact us](banbridge@coderdojo.com) and we’ll help you sort it out.
+Have any questions or would like to find out more? Please [contact us](mailto:banbridge@coderdojo.com) and we’ll help you sort it out.
 
 ### Where to find us?
 
