@@ -10,3 +10,4 @@ The dojo aims to provide as wide a base as possible for the ninjas to learn on. 
 | [HTML & CSS](html_css.md) | Learn how to build and style your very own websites.                        |
 | [Mission Space Lab](mission_space_lab.md) | Details on the two projects being working on for the Astro Pi challenge. |
 | [Hour Of Code](hour_of_code.md) | Loads of challenges to tackle within an hour. |
+| [Git & Github](git_and_github.md) | Learn how to use git to work with others and Github to share your work online. |
