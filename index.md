@@ -1,5 +1,5 @@
 ### Welcome to CoderDojo Banbridge.
-Meets 11.30am - 1pm every 1st and 3rd Saturday of month. Register for upcoming sessions [on zen](https://zen.coderdojo.com/dojos/gb/community-room-tesco-extra-bridgewater-bt-3-2-4lf/banbridge-co-down-banbridge-enterprise-centre)
+Meets 11.30am - 1pm every 1st and 3rd Saturday of month. Register for upcoming sessions [on zen](https://tinyurl.com/coderdojo-banbridge-booking)
 
 Take a look at our [resources](resources/index.md) to get an idea of some of the activities that can be tackled in or outside the dojo.
 
