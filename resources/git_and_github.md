@@ -11,9 +11,10 @@ known as a repository.
 ### What is github?
 
 GitHub is an online means of storing and sharing git repositories. It lets you and others work together on projects 
-from anywhere. But it also provides so much more than that, even website hosting! The [CoderDojo Banbridge]
-(http://coderdojo-banbridge.github.io) site is written in [github markdown]
-(https://guides.github.com/features/mastering-markdown/) and hosted via [https://pages.github.com/](https://pages.github.com/)
+from anywhere. But it also provides so much more than that, even website hosting! The 
+[CoderDojo Banbridge](http://coderdojo-banbridge.github.io) site is written in 
+[github markdown](https://guides.github.com/features/mastering-markdown/) and hosted via 
+[https://pages.github.com/](https://pages.github.com/)
 
 ### Learning Git & Github
 
