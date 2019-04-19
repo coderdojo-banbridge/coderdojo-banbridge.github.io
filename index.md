@@ -12,7 +12,7 @@ Register for upcoming sessions [on zen](https://tinyurl.com/coderdojo-banbridge-
 
 The dojo is raising money to buy equipment & software licenses for the Dojo. You can contribute by one of the two avenues:
 
-* [Deep River Rock](https://deepriverrock.ie/thirstforbetter/coderdojo-banbridge): If you are buying bottle of water, please consider Deep RiverRock's **#thirstforbetter** and support CoderDojoBanbridge - simply add the code on [our page](https://deepriverrock.ie/thirstforbetter/coderdojo-banbridge) and RiverRock will donate 10p each time.
+* [Deep River Rock](https://deepriverrock.ie/thirstforbetter/coderdojo-banbridge): If you are buying bottle of water, please consider Deep RiverRock's **#thirstforbetter** and support CoderDojoBanbridge - simply add the code from the bottle's label to [our page](https://deepriverrock.ie/thirstforbetter/coderdojo-banbridge) and RiverRock will donate 10p each time.
 
 * [gofundme](https://www.gofundme.com/coderdojo-banbridge): Our dojo has created a fundraising campaign to secure funds for some additional equipment & software licenses that we believe will further enrich our ninjas creative journey.
 
