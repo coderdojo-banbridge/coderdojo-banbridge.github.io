@@ -23,4 +23,5 @@ In Banbridge our mentors (past & present) are Angela Lavery, @bakteriak, @ConorG
 ### Supported By
 
 ![Sponsor Image](http://bdelonline.com/wp-content/uploads/2016/10/logo.png)
+
 ![Sponsor Image](https://www.armaghbanbridgecraigavon.gov.uk/wp-content/uploads/2017/01/Armagh-Banbridge-Craigavon-Council-Logo.jpg)
