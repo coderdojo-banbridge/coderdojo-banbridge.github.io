@@ -1,12 +1,96 @@
 title: Coderdojo Banbridge
+url: https://coderdojo-banbridge.github.io/
 description: Community for CoderDojo Banbridge. Contains useful information about the dojo and links to resources used in our sessions.
 navbar: true
 google_analytics: UA-106489965-1
 show_downloads: false
-theme: jekyll-theme-minimal
 twitter_username: coderdojobanb
 facebook_username: CoderDojoBanbridge
 
-gems:
-  - jekyll-mentions
+minimal_mistakes_skin: contrast
+search: true
+breadcrumbs: true
+read_time: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /posts/page:num
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "CoderDojo Banbridge"
+  avatar : "/assets/images/logo_yellow_text.png"
+  bio    : "Community for CoderDojo Banbridge. Contains useful information about the dojo and links to resources used in our sessions."
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:banbridge@coderdojo.com    
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/coderdojobanb"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/coderdojo-banbridge"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/CoderDojoBanbridge/"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/coderdojobanb"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/coderdojo-banbridge"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/CoderDojoBanbridge/"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
