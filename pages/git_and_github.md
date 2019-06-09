@@ -1,3 +1,10 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: single
+author_profile: true
+---
 ### What is git?
 
 [git](https://git-scm.com/) is a free and open source distributed version control system designed to handle everything 

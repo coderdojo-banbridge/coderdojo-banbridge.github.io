@@ -1,10 +1,7 @@
-# Belongs at: /_data/navigation.yml
-
-- title: Home
-  url: /
-
-- title: Resources
-  url: /resources/
-
-- title: Contact Us
-  url: /contact
+main:
+  - title: "Resources"
+    url: /pages/
+  - title: "News"
+    url: /posts/
+  - title: "About"
+    url: /contact
