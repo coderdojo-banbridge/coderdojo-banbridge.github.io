@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: Mission Space Lab
 ---
-### Mission Space Lab
 
 #### About
 

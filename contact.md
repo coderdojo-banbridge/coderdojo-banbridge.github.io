@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: Support or Contact
 ---
-### Support or Contact
 Have any questions or would like to find out more? Please [contact us](mailto:banbridge@coderdojo.com) and we’ll help you sort it out.
 
 ### Where to find us?

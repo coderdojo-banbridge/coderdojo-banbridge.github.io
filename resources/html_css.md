@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: What is HTML & CSS?
 ---
-### What is HTML & CSS?
 
 HTML, HyperText Markup Language, is the language used to create the web pages you visit everyday. It gives content structure and meaning by defining that content as, for example, headings, paragraphs, or images. CSS, or Cascading Style Sheets, is a presentation language created to style the appearance of content—using, for example, fonts or colors.
 
