@@ -4,9 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: What is Scratch?
 ---
-### What is Scratch?
-
 With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
 
 Scratch helps young people learn to think creatively, reason systematically, and work collaboratively — essential skills for life in the 21st century.
