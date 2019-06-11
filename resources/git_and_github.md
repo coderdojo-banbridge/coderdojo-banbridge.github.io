@@ -4,9 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+tite: What is git?
 ---
-### What is git?
-
 [git](https://git-scm.com/) is a free and open source distributed version control system designed to handle everything 
 from small to very large projects with speed and efficiency.
 

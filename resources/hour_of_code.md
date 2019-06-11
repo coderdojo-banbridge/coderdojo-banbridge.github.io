@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: What is the Hour of Code?
 ---
-### What is the Hour of Code?
 
 The [Hour Of Code](https://hourofcode.com/uk) is a worldwide effort to celebrate computer science and is organised 
 by [code.org](https://www.code.org)! Some of the biggest companies in the world have come together to support the 

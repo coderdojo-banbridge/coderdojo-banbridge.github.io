@@ -1,6 +1,6 @@
 main:
   - title: "Resources"
-    url: /pages/
+    url: /resources/
   - title: "News"
     url: /posts/
   - title: "About"

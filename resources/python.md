@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: What is Python?
 ---
-### What is Python?
 
 Python is one of the most popular programming languages and is super concise, that means you can get the computer to do an awful lot with just a few lines of code! 
 

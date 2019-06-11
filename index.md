@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: Welcome to CoderDojo Banbridge.
 ---
-### Welcome to CoderDojo Banbridge.
 
 CoderDojo is a worldwide movement of **free, volunteer-led**, community-based **programming clubs for young people** typically aged between 7 & 17. Meets 11.30am - 1pm every 1st and 3rd Saturday of month. 
 
@@ -23,9 +23,19 @@ The dojo is raising money to buy equipment & software licenses for the Dojo. You
 
 * [gofundme](https://www.gofundme.com/coderdojo-banbridge): Our dojo has created a fundraising campaign to secure funds for some additional equipment & software licenses that we believe will further enrich our ninjas creative journey.
 
-### Mentors & Volunteers
+### Mentors
 
-In Banbridge our mentors (past & present) are Angela Lavery, @bakteriak, @ConorGrimley, @kizzi3, @KramKroc, Michael Rogan, @RyanBeckett, Richard Dean, Sapphire Duffy & @seamusclarke28 
+Our mentors (past & present) are Angela Lavery, @bakteriak, @ConorGrimley, Kendra Sneddon, @kizzi3, @KramKroc, Michael Rogan, Niamh Grimley, @RyanBeckett, Richard Dean, Sapphire Duffy, @seamusclarke28 & Steven Kennedy
+
+### Committee
+
+Our current Committee members are:
+
+| Role        | Name |
+|:------------- |:--------------|
+| Chairperson   | @KramKroc     |
+| Secretary     | Helga Sneddon |
+| Treasurer     | Anna Hudson   |
 
 ### Supported By
 

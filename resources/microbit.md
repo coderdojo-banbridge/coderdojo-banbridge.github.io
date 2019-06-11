@@ -4,8 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: What is the micro:bit?
 ---
-### What is the micro:bit?
 
 [micro:bit](https://microbit.org/) is a tiny programmable computer, designed to make learning and teaching easy and fun!
 
