@@ -1,0 +1,63 @@
+---
+title: End of Dojo Year 2018/2019
+date: 2019-06-17T18:58:55+01:00
+---
+2018/2019 has been another fantastic year for our dojo with continued interest from our young community with loads of new faces popping in alongside many familiar characters too. 
+
+We wanted to end the year as we normally do with an end of term event to hand out any certificates that the ninjas had earned but not yet received. 
+
+This year, we made an extra effort as we wanted to celebrate winning the _Coolest Club_ at **Coolest Projects 2019** so the committee went all out, pulling in favors and twisting one or two arms to ensure it was an event the kids wouldn't forget.
+
+## Special Guests
+
+We were joined by a number of guest who helped kick of the event and hand out certificates. First up was the Lord Mayor of ABCD Council, Councilor Mealla Camplbell. We were really impressed by the interest she showed in the projects that the kids were tackling and the excellent speech that she gave to start the event off where she noted the support that the council have provided through their small grants scheme. The Lord Mayor also handed out the CoderDojo end of term certificates.
+
+She was joined by David Montgomery and Ciaran Cunningham from our hosts Banbridge Enterprise Centre who awarded the certificates for _Astro PI_ and _Coolest Projects_.
+
+Finally we had Clara O'Callahan from Volunteer Now who acknowledged the work done by our volunteers throughout the year.
+
+## Highlights of the Year
+
+We all place value to events in a different way, placing higher priority to remembering certain moments than others, so while the dojo had it's own list of highlights (Rapid7 laptop donations; CodeDragon visit; Coolest Projects; NIDevConf; 2 Youth Mentors; Deloitte Mindstorm Donations; Committee being formed; Council Grant; Tesco Used Book Sale; Deep River Rock) but it's always best to get our ninja's feedback. We used [mentimeter](mentimeter.com) to encourage the ninja's to provide feedback and visualise the results as you can see here:
+
+![Ninja's Highlights](/assets/images/ninja-dojo-highlights-cloud-2019.jpg){:height="100%" width="100%"}
+
+Delighted to see that it wasn't just the mentors who loved _Coolest Projects_ but also that key things like friendship, having fun and learning new stuff where important with the ninja's too.
+
+## Video Messages
+
+In the lead up to the big event, we approach some of our tech/volunteering/local heroes to share messages with the ninjas, and boy did they deliver! In case you missed them we thought we'd gather them here for your viewing pleasure (check them out at bottom of this post).
+
+| Hero             | Role          | 
+|:---------------- |:--------------|
+| Aoibheann Mangan | EU digital girl of the year 2017-2018 |  |
+| Rosa Langhammer     | General Manager at CoderDojo & Coolest Projects | 
+| Rory Best    | Captain of Irish Rugby Team   | 
+| Denise Hayward    | Chief Executive, Volunteer Now | 
+| Stig Severinsen    | 4x Freediving World Champion, Multiple Guinness World Record Holder | 
+| Bill Liao    | CoderDojo co-founder | 
+| James Whelton    | CoderDojo co-founder | 
+
+## Finish with gratitude
+
+We'd love to thank the following companies for contributing to the great swag bags we gathered together for the kids:
+
+* ABCD Council
+* Anamoli
+* Flexera
+* Bazaar Voice
+* Rapid7
+* SmashFly
+* Allsop
+* PWC
+* Tesco
+
+But most of all we'd like to thank the kids and of course their parents for being so awesome and coming to our sessions, the dojo is literally nothing without you folks!
+
+{% include video id="vAVhYM9uOO4" provider="youtube" %}
+{% include video id="cC2UCNGoo3s" provider="youtube" %}
+{% include video id="SQpWCCidFos" provider="youtube" %}
+{% include video id="iYjsxhtAcq4" provider="youtube" %}
+{% include video id="GNwXOGyQrsk" provider="youtube" %}
+{% include video id="Vv210uMzQbM" provider="youtube" %}
+{% include video id="esST6rRyuNo" provider="youtube" %}
