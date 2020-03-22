@@ -14,7 +14,14 @@ Follow this [link](https://scratch.mit.edu/parents/) if you are a parent and wou
 
 ### Scratch in CoderDojo Banbridge
 
-In CoderDojo Banbridge, we make use of [cs-first](https://cs-first.com), which has been developed by **Google**, to help ninjas guide their learning with the **Scratch** programming language. Ninjas can tackle one or more clubs, each based around a specific theme. Each club comprises of eight activites and ninjas earn a certificate on completion of all exercises.
+In CoderDojo Banbridge, we make use of [cs-first](https://cs-first.com), which has been developed by **Google**, to help ninjas guide their learning with the **Scratch** programming language. Ninjas can tackle one or more topics, each based around a specific theme. Each topics comprises of eight activites and ninjas earn a certificate on completion of all exercises.
+
+If you’re new and don’t have a CS First login yet, sign up for a new account:
+
+* Click on this link to log in to CS First:  https://csfirst.withgoogle.com/login
+* Click on the “Enter Club Code” button. The club code is *k6wk6c*
+* When asked if your class is *CoderDojo Banbridge*, click 'Yes'
+* You should be all set to start your new project!
 
 | Club          | Difficulty       | Description                                                                                                                                                                                                                   |
 |---------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
