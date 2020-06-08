@@ -12,7 +12,7 @@ For this session you just need to install the [Mu Editor](https://twitter.us15.l
 
 Launch Mu Editor on your computer and it will prompt you to select which “Mode” you wish to use. Your options may be different to what is shown here, but make sure you select “**Pygame Zero**” and then press OK.
 
-TODO:ADD IMAGE FOR EDITOR
+![mu mode selection](/assets/images/pygamezero_mu_mode.png){:height="100%" width="100%"}
 
 
 ## Add code to open a custom sized game window
@@ -23,9 +23,7 @@ The Mu Editor will look like this. To create a window you need to add...absolute
  pgzrun my_first_game.py
  ```
 
-
-
-TODO: ADD IMAGE 
+![mu new window](/assets/images/pygamezero_mu_new.png){:height="100%" width="100%"}
 
 To change the size of the window that appears, let's add the following code to the editor:
 
@@ -38,7 +36,7 @@ And then press “**Play**” yet again. Notice how much smaller the screen is t
 
 ## Add an Actor to our Game
 
-TODO: ADD IMAGE OF ACTOR
+![pygame co-ordinates](/assets/images/pygamezero_figure.png){:height="100%" width="100%"}
 
 Adding an actor is roughly the same concept as adding a new sprite in Scratch. When we add our actor, we want to make sure we position them in the right spot. 
 
@@ -63,6 +61,8 @@ To check out what our code should look like at this point, go here: [https://gis
 
 
 ## Draw and Update
+
+![pygame co-ordinates](/assets/images/pygamezero_filmstrip.png){:height="100%" width="100%"}
 
 draw() and update() are two key concepts in Pygame Zero so let’s take some time trying to understand what they do!
 
