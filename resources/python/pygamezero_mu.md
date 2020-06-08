@@ -199,7 +199,7 @@ Did you see what happened when we managed to click on our character. They change
 ```python3
 def set_alien_normal():
     alien.image = "alien"
-``
+```
 
 And we’ll update our on_mouse_down function to schedule a call to the new set_alien_normal function:
 
