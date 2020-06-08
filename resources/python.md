@@ -32,5 +32,5 @@ CoderDojo provide [Sushi cards](http://kata.coderdojo.com/wiki/Python_Path), wor
 | [Code Club](https://codeclubprojects.org/en-GB/python/)                                    | Some exciting projects from Code Club                                                                  |
 | [Learn Python](https://www.codecademy.com/courses/learn-python/)                           | Code Academy Course - Learn Python with interactive exercises.                                         |
 | [Make Games With Python](https://www.raspberrypi.org/magpi-issues/Essentials_Games_v1.pdf) | Free guide from Raspberry Pi detailing how to make python games on the Pi                              |
-| [Game Development with adventurelib + repl.it](/resources/python/adventurelib.md) | Our own guide to game development with adventurelib + repl.it                              |
-| [Game Development with PyGame Zero + Mu Editor](/resources/python/pygamezero_mu.md) | Our own guide to game development with PyGame Zero + Mu Editor.it                              |
+| [Game Development with adventurelib + repl.it](python/adventurelib) | Our own guide to game development with adventurelib + repl.it                              |
+| [Game Development with PyGame Zero + Mu Editor](python/pygamezero_mu) | Our own guide to game development with PyGame Zero + Mu Editor.it                              |
