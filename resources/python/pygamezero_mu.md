@@ -1,4 +1,11 @@
-# Game Development with PyGame Zero + Mu Editor
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: single
+author_profile: true
+title: Game Development with PyGame Zero + Mu Editor
+---
 
 ### A step by step approach to building a simple game based on the excellent article: [https://www.mattlayman.com/blog/2019/teach-kid-code-pygame-zero/](https://www.mattlayman.com/blog/2019/teach-kid-code-pygame-zero/)
 
