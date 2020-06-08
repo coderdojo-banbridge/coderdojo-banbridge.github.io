@@ -1,15 +1,4 @@
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # Game Development with adventurelib + repl.it
-
 
 ### A step by step approach to building a simple text-based adventure game
 
@@ -44,7 +33,7 @@ _adventurelib.py_ -> contains the adventurelib code that helps build our game
 
 ![repl.it files](/assets/images/adventurelib_replit_files.png){:height="100%" width="100%"}
 
-Along the top you’ll see two buttons. **run** & **fork** where _fork_ performs the same function as Remix in Scratch, i.e copies the code into your account so you can change and modify your own copy. _run _is somewhat similar to pressing the Green Flag in Scratch in that it will start your code running. Press **fork** now and it will take you to your own copy of the code in your account and then press **run** (you should notice that the _fork _button is no longer visible after you press it).
+Along the top you’ll see two buttons. **run** & **fork** where _fork_ performs the same function as Remix in Scratch, i.e copies the code into your account so you can change and modify your own copy. _run _is somewhat similar to pressing the Green Flag in Scratch in that it will start your code running. Press **fork** now and it will take you to your own copy of the code in your account and then press **run** (you should notice that the _fork_ button is no longer visible after you press it).
 
 ![fork or run files](/assets/images/adventurelib_fork_run.png){:height="100%" width="100%"}
 
@@ -71,7 +60,7 @@ We’re going to be creating our own adventure where we’ll use text commands t
 
 Here’s the one I’ve drawn to help me visualize the rooms my space adventure will take place in:
 
-![space map](/assets/images/adventurelib_space_map.png){:height="100%" width="100%"}
+![space map](/assets/images/adventurelib_space_map.jpg){:height="100%" width="100%"}
 
 Think about how you’d describe each room and what elements would be in it?
 
@@ -88,7 +77,7 @@ Text adventure games respond to commands entered by the player. Some typical com
 *   take wand
 *   give wand to wizard
 
-We can use the **_@when_** decorator to create a command that a player can type in order to interact with your game, your code will then decide what happens when the command is issued. Let’s add a “brush teeth'' command and use the **_say() _**function from adventurelib to output text in response:
+We can use the **_@when_** decorator to create a command that a player can type in order to interact with your game, your code will then decide what happens when the command is issued. Let’s add a “brush teeth'' command and use the **_say()_** function from adventurelib to output text in response:
 
 
 ```python3
@@ -179,9 +168,9 @@ If stuck, you can _fork_ this working code where we also have the living area an
 
 We defined rooms but they’ve not played a part in our game yet. We need to allow our character to move around. 
 
-We could add a command for each direction, but let’s just use one instead and use a captured argument, **_direction_**, to see what the direction was. We’ll also need to change our global variable **_current_room_** to become the new room if we do change positions, note how we use **_global_ **to make sure it’s the global version we use and not a new local version. 
+We could add a command for each direction, but let’s just use one instead and use a captured argument, **_direction_**, to see what the direction was. We’ll also need to change our global variable **_current_room_** to become the new room if we do change positions, note how we use **_global_** to make sure it’s the global version we use and not a new local version. 
 
-Finally we use the **_exit(direction)_** function from **_Room_** to do the moving. If no room exists in the direction we move then **_room_** will be empty and we won’t go into the **_if _**block:
+Finally we use the **_exit(direction)_** function from **_Room_** to do the moving. If no room exists in the direction we move then **_room_** will be empty and we won’t go into the **_if_** block:
 
 
 ```python3
@@ -209,7 +198,7 @@ def look():
 ```
 
 
-**_say(Room)_** prints out our description of the **_current_room_**. We will also add a call to look right before our **start()** line so that when the game starts you get a description of the room you start in:
+**_say(Room)_** prints out our description of the **_current_room_**. We will also add a call to look right before our **_start()_** line so that when the game starts you get a description of the room you start in:
 
 
 ```python3
@@ -320,7 +309,7 @@ def check_danger():
 ```
 
 
-**Note: **Add a call to **check_danger()** as the last line of our **go(direction)** function.
+**Note:** Add a call to **check_danger()** as the last line of our **go(direction)** function.
 
 Finally, we want to have a command that will only be present and available in some circumstance. Enter that command context we mentioned above. We’ve set the context to danger and now we’ll add a function which will only be called when that context matches:
 
