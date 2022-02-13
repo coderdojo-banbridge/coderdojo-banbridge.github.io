@@ -17,3 +17,4 @@ The dojo aims to provide as wide a base as possible for the ninjas to learn on. 
 | [Mission Space Lab](mission_space_lab) | Details on the two projects being working on for the Astro Pi challenge. |
 | [Hour Of Code](hour_of_code) | Loads of challenges to tackle within an hour. |
 | [Git & Github](git_and_github) | Learn how to use git to work with others and Github to share your work online. |
+| [Resource Roundup](https://praxent.com/blog/coding-information-resources-for-kids) | As suggested by **Noah** & Selena, this site contains some Coding Information and Resources for Kids. |
